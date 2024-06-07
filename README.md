@@ -6,8 +6,8 @@ Bem-vindo ao repositório de estudos de diversas tecnologias de machine learning
 - **PyTorch**: Biblioteca de aprendizado profundo e computação científica em Python.
 - **TensorFlow**: Plataforma de código aberto para aprendizado de máquina.
 - **SciPy**: Biblioteca de Python para computação científica.
-- **MOJO**: Tecnologia da H2O.ai para armazenamento e implantação de modelos de machine learning.
-- **MAX**: Plataforma de código aberto da IBM para modelos de aprendizado de máquina.
+- **MOJO**: Uma linguagem de programação.
+- **MAX**: Modular Accelerate Execution.
 
 ## Estrutura do Repositório
 
