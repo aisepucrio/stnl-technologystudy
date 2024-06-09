@@ -8,3 +8,15 @@ Bem-vindo ao repositório de estudos de diversas tecnologias de machine learning
 - **SciPy**: Biblioteca de Python para computação científica.
 - **MOJO**: Uma linguagem de programação.
 - **MAX**: Modular Accelerate Execution.
+
+## Estrutura do Repositório
+
+A estrutura do repositório segue o formato abaixo para organizar os estudos de cada tecnologia por pessoa:
+
+sh
+```
+tecnologia-estudada/
+  └── estudo-nome-da-pessoa/
+   └── estudo-em-si/
+```
+
