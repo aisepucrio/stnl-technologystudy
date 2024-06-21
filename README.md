@@ -11,29 +11,19 @@ Bem-vindo ao repositório de estudos de diversas tecnologias de machine learning
 
 ## Estrutura do Repositório
 
-```plaintext
-├── scikit-learn
-│   ├── tutoriais
-│   ├── exemplos
-│   └── projetos
-├── pytorch
-│   ├── tutoriais
-│   ├── exemplos
-│   └── projetos
-├── tensorflow
-│   ├── tutoriais
-│   ├── exemplos
-│   └── projetos
-├── scipy
-│   ├── tutoriais
-│   ├── exemplos
-│   └── projetos
-├── mojo
-│   ├── tutoriais
-│   ├── exemplos
-│   └── projetos
-└── max
-    ├── tutoriais
-    ├── exemplos
-    └── projetos
+A estrutura do repositório segue o formato abaixo para organizar os estudos de cada tecnologia por pessoa:
+
 ```
+tecnologia-estudada/
+  └── estudo-nome-da-pessoa/
+   └── estudo-em-si/
+```
+
+Por exemplo:
+
+```
+- TensorFlow
+  └── estudo-diogo/
+   └── tensorflow.ipynb/
+```
+
